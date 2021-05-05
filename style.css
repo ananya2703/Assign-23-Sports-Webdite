@@ -1,0 +1,70 @@
+a:link {
+    color: blue;
+    background-color: transparent;
+  }
+  a:visited {
+    color: yellow;
+    background-color: transparent;
+  }
+  a:hover {
+    color: cyan;
+    background-color: transparent;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent; 
+  }
+  
+  .header{
+    background:url(https://i.postimg.cc/SNsDn5DP/saina-nehwal-3.jpg);
+    position:relative;
+    background-size:cover;
+    height:609px;
+    background-repeat: no-repeat;
+    margin-bottom:30px;
+    font-weight:bold;
+    text-align: center;
+  }
+  
+  .title{
+    color:white;
+    font:lucida-calligraphy;
+    padding:4em;
+    text-align: left;
+    font-size:6rem;
+  }
+  
+  .info-1{
+    background:url(https://i.postimg.cc/NGy0VXmy/bg-3.jpg);
+    background-size:cover;
+    float: left;
+    width:68%;
+    padding-left:6%;
+    padding-right:6%;
+    font-family:Monotype Corsiva;
+  }
+  
+  .info-2{
+    float:right;
+    width:20%;
+  }
+  
+  
+  .awards{
+    float:left;
+    width:66%;
+    background:url(https://i.postimg.cc/7hRkw2GQ/bg-1.jpg);
+    background-size:cover;
+  }
+  
+  .Endorsements{
+    display:felx;
+    flex:wrap; background :url(https://i.postimg.cc/TYd2Rcgg/bg-2.jpg);
+    background-size:cover;
+    font-family:Lucida Calligraphy;
+  }
+  
+  .popular{
+    font-family:Pristina;
+    background:url("https://i.postimg.cc/Kc6GTy67/bg-4.jpg");
+  }
